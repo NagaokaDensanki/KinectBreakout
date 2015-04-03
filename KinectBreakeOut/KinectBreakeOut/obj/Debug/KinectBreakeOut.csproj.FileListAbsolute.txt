@@ -1,0 +1,13 @@
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\bin\Debug\KinectBreakeOut.exe.config
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\bin\Debug\KinectBreakeOut.exe
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\bin\Debug\KinectBreakeOut.pdb
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut.csprojResolveAssemblyReference.cache
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\MainWindow.baml
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\MainWindow.g.cs
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\App.g.cs
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut_MarkupCompile.cache
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut.g.resources
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut.Properties.Resources.resources
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut.csproj.GenerateResource.Cache
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut.exe
+c:\users\junya\documents\visual studio 2013\Projects\KinectBreakeOut\KinectBreakeOut\obj\Debug\KinectBreakeOut.pdb
