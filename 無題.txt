@@ -1,0 +1,17 @@
+y-y1=(y1-y2)/(x1-x2)(x-x1)
+y-(y1-y2)/(x1-x2)*x=-(y1-y2)/(x1-x2)*x1+y1
+y-ya=(speedy/speedx)(x-xa)
+
+y-(y1-y2)/(x1-x2)x=-(y1-y2)/(x1-x2)*x1+y1
+y-(speedy/speedx)x=-(speedy/speedx)xa+ya
+
+    A1x+B1y=E1
+    A2x+B2y=E2
+
+‰ğ
+x=(-(y1-y2)/(x1-x2)*x1+y1+(speedy/speedx)xa+ya)/
+(-(y1-y2)/(x1-x2)+(speedy/speedx))
+
+
+    x=(E1*B2-B1*E2)/(A1*B2-B1*A2)
+    y=(E2*A1-E1*A2)/(A1*B2-A2*B1)
